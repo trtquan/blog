@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/fe-ninja.github.io",
+  pathPrefix: "/blog",
   siteMetadata: {
     title: `FE Ninja Blog`,
     author: {
