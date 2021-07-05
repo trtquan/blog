@@ -1,9 +1,10 @@
 module.exports = {
+  pathPrefix: "/fe-ninja.github.io",
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `FE Ninja Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `fe-ninja`,
+      summary: `who lives and works in VietName building useful things.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
